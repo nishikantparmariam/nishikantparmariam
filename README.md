@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### I am Nishikant Parmar, pursuing B.Tech in Computer Science and Engineering at Indian Institute of Technology, Gandhinagar
-- ⚡ Skills 
+
+⚡ Skills 
 
 
 
-- 💬 Reach Me
+💬 Reach Me
 
 
 
