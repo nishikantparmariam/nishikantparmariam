@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I am Nishikant Parmar, pursuing B.Tech in Computer Science and Engineering at Indian Institute of Technology, Gandhinagar
+
+- ⚡ Reach Me
+
+
+
+
+
 <!--
 **nishikantparmariam/nishikantparmariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
