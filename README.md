@@ -1,27 +1,15 @@
-### Hi there 👋
-### I am Nishikant Parmar, pursuing B.Tech in Computer Science and Engineering at Indian Institute of Technology, Gandhinagar
+### 👋 About Me 
 
-⚡ Skills 
+I am Nishikant Parmar, pursuing B.Tech. in Computer Science and Engineering at Indian Institute of Technology, Gandhinagar. I am passionate about Full-Stack Development and Data Structures and Algorithms. 
 
+### ⚡ Skills 
 
-
-💬 Reach Me
-
-
-
+- Software Development : NodeJs+ExpressJs, Firebase, JavaScript/jQuery, HTML, CSS, Bootstrap, MongoDB, Flutter (Dart) framework, Android (Basic)
+- Programming Languages : C++, C, Python
+- Other Tools : Postman, Adobe Photoshop, Android Studio
 
 
-<!--
-**nishikantparmariam/nishikantparmariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Reach Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email : [nishikant.parmar@iitgn.ac.in](mailto:nishikant.parmar@iitgn.ac.in) , [nishikantparmar.official@gmail.com](mailto:nishikantparmar.official@gmail.com)
+- LinkedIn : [Nishikant Parmar](http://linkedin.com/in/nishikant-parmar)
