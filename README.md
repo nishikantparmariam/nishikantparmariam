@@ -1,7 +1,6 @@
 ### 👋 About Me 
 
-Hi
-I am Nishikant Parmar, pursuing B.Tech. in Computer Science and Engineering at the Indian Institute of Technology, Gandhinagar. I am passionate about Full-Stack Software Development and Data Structures and Algorithms. 
+Hi, I am Nishikant Parmar, pursuing B.Tech. in Computer Science and Engineering at the Indian Institute of Technology, Gandhinagar. I am passionate about Full-Stack Software Development and Data Structures and Algorithms. 
 
 ### ⚡ Skills 
 
