@@ -12,4 +12,3 @@ Hi, I am Nishikant Parmar, pursuing B.Tech. in Computer Science and Engineering 
 
 - Email : [nishikant.parmar@iitgn.ac.in](mailto:nishikant.parmar@iitgn.ac.in) , [nishikantparmar.official@gmail.com](mailto:nishikantparmar.official@gmail.com)
 - LinkedIn : [Nishikant Parmar](http://linkedin.com/in/nishikant-parmar)
-- Mobile : +91 9131304419
