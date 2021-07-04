@@ -4,9 +4,7 @@ Hi, I am Nishikant Parmar, pursuing B.Tech. in Computer Science and Engineering 
 
 ### ⚡ Skills 
 
-- Software Development : NodeJs/ExpressJs, Firebase, JavaScript/jQuery, HTML/CSS/Bootstrap, MongoDB, Flutter, Android
-- Programming Languages & Tools : C++, C, Python, Postman, Adobe Photoshop, Android Studio
-
+Python, C++, NodeJs, ReactJs, Typescript, Javascript, NextJs, jQuery, HTML/CSS/Bootstrap, SQL, MongoDB, Firebase, Flutter
 
 ### 💬 Reach Me
 
