@@ -1,6 +1,6 @@
 ### 👋 About Me 
 
-Hi, I am Nishikant Parmar, currently a Member Techical at D.E. Shaw India. I have completed my B.Tech. in Computer Science and Engineering from the Indian Institute of Technology (IIT), Gandhinagar. I am passionate about Full-Stack Software Development and Data Structures and Algorithms. 
+Hi, I am Nishikant Parmar, currently a Member Technical at D.E. Shaw India. I have completed my B.Tech. in Computer Science and Engineering from the Indian Institute of Technology (IIT), Gandhinagar. I am passionate about Full-Stack Software Development and Data Structures and Algorithms. 
 
 ### ⚡ Skills 
 
